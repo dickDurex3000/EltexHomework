@@ -1,2 +1,2 @@
 # EltexHomework
-Homework completed in C programming courses.
+Homework done while studying at the Eltex Summer Programming School
